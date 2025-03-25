@@ -1,0 +1,17 @@
+Follow these steps to obtain an OpenAI API key.
+
+1):Visit OpenAI's platform website at platform.openai.com.
+2):If you don’t already have an account, click on "Sign Up" and create one using your email, Google, or Microsoft account. 
+If you already have an account, log in.
+3):Once logged in, click on your profile icon located at the top-right corner of the page.
+4):From the dropdown menu, select "View API Keys"
+5):On the API Keys page, click on "Create New Secret Key."
+6):Optionally, assign a name or nickname to your key for easy reference.
+7):After generating the key, copy it immediately and store it in a secure location.
+
+***Create one .env file and save this "API Keys" in this file 
+OPENAI_API_KEY="........................." 
+@### Enter your Openai API Key in the vacant place and save format in (.env)
+
+
+
